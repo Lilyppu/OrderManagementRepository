@@ -8,10 +8,10 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>OrderManagement</groupId>
-	<artifactId>OrderManagement</artifactId>
+	<groupId>MasterOrderManagement</groupId>
+	<artifactId>MasterOrderManagement</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>OrderManagement</name>
+	<name>MasterOrderManagement</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
