@@ -1,10 +1,10 @@
-package com.MasterOrderManagement;
+package com.OrderManagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MasterOrderManagementApplicationTests {
+class OrderManagementApplicationTests {
 
 	@Test
 	void contextLoads() {
